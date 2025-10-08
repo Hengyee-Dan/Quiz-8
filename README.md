@@ -12,6 +12,7 @@ In the Sci-film "The Matrix"，a classic opening scene shows Matrix Rain, which 
 # Part2: Coding Technique Exploration 
 
 The following code uses an animation loop to build a continuous animation loop and designs a “line” array to maintain the animation‘s continuity. When the line reaches the bottom, it will be deleted and reappears. This approach can be applied to image creation to create random effects.
-![An image of the Coding](readmeImages/Animating The Characters.png)
+
+![Animating The Characters.jpg](https://github.com/Hengyee-Dan/Quiz-8/blob/main/readmeImages/Animating%20The%20Characters.png?raw=true)
  [The rain code](https://thelinuxcode.com/making-it-rain-code-matrix-style/)
 
